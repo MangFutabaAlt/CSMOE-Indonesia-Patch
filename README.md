@@ -2,7 +2,7 @@
 # CSMOE Indonesia Patch
 
 CSMOE Indonesia Patch adalah proyek terjemahan komunitas untuk game Counter-Strike: Mobile Oriented Edition (CSMOE) dari bahasa Mandarin ke Bahasa Indonesia. Proyek ini bertujuan untuk membuat game lebih mudah dipahami oleh pemain Indonesia.
----
+
 
 ## Link Unduhan
 
@@ -50,7 +50,7 @@ Android/data/in.celest.xash3d.csbtem/files/
 
 ## Dukungan dan Komunitas
 
-Untuk bantuan, pembaruan, atau berdiskusi bersama komunitas, silakan bergabung melalui Discord kami:  
+Untuk bantuan, update, atau berdiskusi bersama komunitas, silakan join Discord Official CSMOE:  
 [Discord CSMOE Indonesia](https://discord.gg/YMH8gfdUJu)
 
 ---
