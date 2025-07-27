@@ -1,15 +1,18 @@
 
 # CSMOE Indonesia Patch
 
-CSMOE Indonesia Patch adalah proyek terjemahan komunitas untuk game Counter-Strike: Mobile Oriented Edition (CSMOE) dari bahasa Mandarin ke Bahasa Indonesia. Proyek ini bertujuan untuk membuat game lebih mudah dipahami oleh pemain Indonesia.
+CSMOE Indonesia Patch adalah proyek terjemahan komunitas untuk game Counter-Strike: Mobile Oriented Edition (CSMOE) dari bahasa China ke Bahasa Indonesia. Proyek ini bertujuan untuk membuat game lebih mudah dipahami oleh pemain Indonesia.
 
 
 ## Link Unduhan
 
 Silahkan join Discord terlebih dahulu untuk mengunduh game:  
-[Klik di sini untuk mengunduh](https://discord.gg/YMH8gfdUJu)
+[[Klik di sini untuk mengunduh](https://discord.gg/YMH8gfdUJu)
 
 ---
+## Video Instalasi 
+[![Tonton di YouTube](https://img.youtube.com/vi/AcVLMxjHZ54/0.jpg)](https://youtu.be/AcVLMxjHZ54?si=hMDzXo8icwx8eOyo)
+
 
 ## Apa itu CSMOE?
 
@@ -19,7 +22,7 @@ CSMOE adalah game modifikasi berbasis Xash3D Engine dan modifikasi dari Counter-
 
 ## Mengapa Diterjemahkan?
 
-CSMOE sepenuhnya menggunakan bahasa Mandarin. Game ini pernah dibajak dan dijual kembali secara ilegal di pasar Tiongkok (situasi serupa juga terjadi pada CSSME dan CSBTE), developer memutuskan untuk tidak membuka versi terbaru secara open source. Namun, ssya telah mendapatkan izin resmi untuk merilis patch terjemahan ini.
+CSMOE sepenuhnya menggunakan bahasa China. Game ini pernah dibajak dan dijual kembali secara ilegal di pasar Tiongkok (situasi serupa juga terjadi pada CSSME dan CSBTE), developer memutuskan untuk tidak membuka versi terbaru secara open source. Namun, ssya telah mendapatkan izin resmi untuk merilis patch terjemahan ini.
 
 ---
 
