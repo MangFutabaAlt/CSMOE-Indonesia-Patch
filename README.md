@@ -7,7 +7,7 @@ CSMOE Indonesia Patch adalah proyek terjemahan komunitas untuk game Counter-Stri
 ## Link Unduhan
 
 Silahkan join Discord terlebih dahulu untuk mengunduh game:  
-[[Klik di sini untuk mengunduh](https://discord.gg/YMH8gfdUJu)
+[Klik di sini untuk mengunduh](https://discord.gg/YMH8gfdUJu)
 
 ---
 ## Video Instalasi 
