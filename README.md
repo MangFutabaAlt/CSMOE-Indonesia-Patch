@@ -39,7 +39,7 @@ Patch ini tidak melanggar aturan distribusi yang berlaku.
 
 1. Ekstrak file patch ke direktori berikut:
 ```
-Android/data/in.celest.xash3d.csbtem/files/
+Android/data/in.celest.xash3d.csbtem/files/ddc/resource/
 ```
 2. Gantilah file jika diminta.
 
