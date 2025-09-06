@@ -46,7 +46,7 @@ Android/data/in.celest.xash3d.csbtem/files/ddc/resource/
 ### Windows
 
 1. Salin seluruh file patch ke direktori instalasi CSMOE Anda.
-2. Timpa file yang sudah ada jika diminta.
+2. Pergi ke csmoe/resource/ dan Timpa file yang sudah ada jika diminta.
 3. Jalankan game seperti biasa.
 
 ---
